@@ -1,56 +1,56 @@
 // 1. var — 10 Questions
 
 // 1. Create a var variable called name and initialize it with your name. Print it.
-var name1 = "Asin";
-console.log(name1);
+var name = "Asin";
+console.log(name);
 
 // 2. Create a var variable called age with value 25. Reassign it to 30 and print it.
-var age1 = 25;
-age1 = 30;
-console.log(age1);
+var age = 25;
+age = 30;
+console.log(age);
 
 // 3. Create a var variable called city, assign "Chennai", then reassign "Bangalore".
-var city1 = "Chennai";
-city1 = "Bangalore";
-console.log(city1);
+var city = "Chennai";
+city  = "Bangalore";
+console.log(city);
 
 // 4. Create a var variable called salary and initialize it with 25000. Redeclare it with 35000.
-var salary1 = 25000;
-var salary1 = 35000;
-console.log(salary1);
+var salary = 25000;
+var salary = 35000;
+console.log(salary);
 
 // 5. Create a var variable, assign a value, reassign it, and redeclare it.
-var value1 = 100;
-value1 = 200;
-var value1 = 300;
-console.log(value1);
+var value = 100;
+value = 200;
+var value = 300;
+console.log(value);
 
 // 6. Create a var variable called department with "ECE" and redeclare it with "CSE".
-var department1 = "ECE";
-var department1 = "CSE";
-console.log(department1);
+var department = "ECE";
+var department = "CSE";
+console.log(department);
 
 // 7. Create a var variable called mark with 50, reassign it to 75.
-var mark1 = 50;
-mark1 = 75;
-console.log(mark1);
+var mark = 50;
+mark = 75;
+console.log(mark);
 
 // 8. Create a var variable called company and redeclare it with another company name.
-var company1 = "TCS";
-var company1 = "Stackly";
-console.log(company1);
+var company = "TCS";
+var company = "Stackly";
+console.log(company);
 
 // 9. Create a var variable without assigning a value, then initialize it later.
-var course1;
-course1 = "JavaScript";
-console.log(course1);
+var course;
+course = "JavaScript";
+console.log(course);
 
 // 10. Create one var variable and change its value three times.
-var number1 = 10;
-number1 = 20;
-number1 = 30;
-number1 = 40;
-console.log(number1);
+var number = 10;
+number = 20;
+var number = 30;
+number = 40;
+console.log(number);
 
 
 // 2. let — 10 Questions
